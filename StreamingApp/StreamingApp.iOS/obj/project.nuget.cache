@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVc9cc0Zmrzie+SiGk1rpz5+o7A+FOygv616Ok8D5liFC+05kXipthS7n16XdBd6X0ea25J4iN7FEVesjYZEzA==",
+  "success": true,
+  "projectFilePath": "/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp.iOS/StreamingApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanangarcia/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/juanangarcia/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/juanangarcia/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/juanangarcia/.nuget/packages/xamarin.forms/5.0.0.2612/xamarin.forms.5.0.0.2612.nupkg.sha512",
+    "/Users/juanangarcia/.nuget/packages/xamarin.forms.pancakeview/2.3.0.759/xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/bin/Debug/netstandard2.0/StreamingApp.deps.json
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/bin/Debug/netstandard2.0/StreamingApp.dll
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/bin/Debug/netstandard2.0/ref/StreamingApp.dll
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/bin/Debug/netstandard2.0/StreamingApp.pdb
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/StreamingApp.csproj.AssemblyReference.cache
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/StreamingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/StreamingApp.AssemblyInfoInputs.cache
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/StreamingApp.AssemblyInfo.cs
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/StreamingApp.csproj.CoreCompileInputs.cache
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/StreamingApp.dll
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/refint/StreamingApp.dll
+/Users/juanangarcia/Projects/StreamingApp/StreamingApp/StreamingApp/obj/Debug/netstandard2.0/StreamingApp.pdb
